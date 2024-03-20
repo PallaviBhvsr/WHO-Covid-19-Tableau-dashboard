@@ -31,10 +31,11 @@ Author
 [Pallavi Bhavsar](https://github.com/PallaviBhvsr)
 
 
-![CASES DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/6752f421-cc60-4cf2-afac-0bbb8368c3f5)
+![CASES DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/81617483-c0ce-4cec-bdd6-64530b06accb)
 
 
-![DEATHS DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/755f2986-efbf-4372-ba2f-a4c5e3775023)
+
+![DEATHS DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/221e2845-c772-44f2-87aa-fddd22ffb6a6)
 
 
 
