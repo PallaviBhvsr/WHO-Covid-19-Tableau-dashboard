@@ -26,5 +26,17 @@ over the past few years and facilitate informed analysis for stakeholders.
 4.**Feedback and Collaboration**: Your feedback is invaluable! Feel free to share your thoughts, suggestions, or insights derived from the dashboard. Let's collaborate in deciphering the pandemic's impact and charting a path forward.
 
 
+Author
+
+[Pallavi Bhavsar](https://github.com/PallaviBhvsr)
+
+
+![CASES DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/6752f421-cc60-4cf2-afac-0bbb8368c3f5)
+
+
+![DEATHS DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/755f2986-efbf-4372-ba2f-a4c5e3775023)
+
+
+
 
 
