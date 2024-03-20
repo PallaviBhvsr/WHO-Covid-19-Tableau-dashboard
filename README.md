@@ -29,6 +29,7 @@ over the past few years and facilitate informed analysis for stakeholders.
 Author
 
 [Pallavi Bhavsar](https://github.com/PallaviBhvsr)
+**Linkedin Profile** : [Link](https://www.linkedin.com/in/pallavi-bhavsar-11221jp0725/)
 
 
 ![CASES DASHBOARD](https://github.com/PallaviBhvsr/WHO-Covid-19-Tableau-dashboard/assets/133075629/81617483-c0ce-4cec-bdd6-64530b06accb)
